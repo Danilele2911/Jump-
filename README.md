@@ -1,5 +1,5 @@
 # Jump-
- A simple datapack that lets you take a super leap when holding a special feather
+ A simple datapack that lets you take a super jump when holding a special feather
 
 ### /give @p feather{CustomModelData:21001}
 
